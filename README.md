@@ -22,6 +22,9 @@ pip install click
 ```python
 only support command (the right command)
 https://www.aparat.com/playlist/21334274        ~>it has many video :)
+
+python start.py https://www.aparat.com/v/cyp3f6v
+python start.py https://www.aparat.com/playlist/21334274
 ```
 
 
